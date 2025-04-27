@@ -1,0 +1,6 @@
+# Project Infinity X
+ro.product.marketname=Moto G42
+ro.infinity.soc=Snapdragon® 680 4G
+ro.infinity.battery=5000 mAh
+ro.infinity.display=1080 x 2400, 60 Hz
+ro.infinity.camera=50MP (Primary) + 8MP (Ultrawide) + 2MP (Depth) / 16MP (Front Facing)
